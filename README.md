@@ -125,17 +125,5 @@ Preview, test, and deploy!
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💼 Author
-
-**Karan Munoth**
-*Data & AI Enthusiast | VIT Vellore*
-
----
 
 ## ⭐ Star this repo if you found it useful!
